@@ -1,5 +1,5 @@
 from dgageot/helloworld
 
-# Expose the http port
+# xpose the http port
 RUN touch /tmp/vaibhav
 
